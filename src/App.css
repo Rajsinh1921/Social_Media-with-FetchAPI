@@ -1,0 +1,44 @@
+.mainContainer {
+  display: flex;
+  width: 100%;
+}
+.righthandContainer {
+  width: 100%;
+}
+.sidebar {
+  height: 80vh;
+}
+
+.header {
+  width: 100%;
+}
+
+.post-card {
+  margin: 20px 50px;
+}
+
+.tags {
+  margin-right: 5px;
+}
+
+.delete-btn {
+  font-size: 23px;
+}
+
+.reaction {
+  margin-top: 15px;
+}
+
+.create-post {
+  margin-left: 20px;
+  margin-top: 50px;
+  width: 80%;
+}
+
+.Welcomemessage {
+  margin-top: 50px;
+}
+
+.loading-Spinner {
+  margin: 10%;
+}
